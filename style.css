@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #222831;
+}
+
+canvas {
+  display: block;
+}
+
+
+
+@font-face {
+  font-family: 'Heavitas';
+  src: url('Heavitas.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+div {
+  font-family: 'Heavitas', sans-serif;
+  color:aliceblue;
+  padding-top: 20px;
+  font-size: 60px;
+  text-align: center;
+}
